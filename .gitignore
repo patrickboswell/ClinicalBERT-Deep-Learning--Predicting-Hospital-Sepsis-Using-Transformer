@@ -2,3 +2,8 @@
 .DS_Store
 .idea
 key/data-mining-364317-b7bb7c8abf14.json
+data/
+result_early/
+model/
+pickle/
+__pycache__/
